@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cem Kırkoyun</h1>
 <h3 align="center">A passionate software developer from Turkey</h3>
 
-- 🌱 I’m currently learning **React, tailwindcss, Redux**
+- 🌱 I’m currently learning **React, Swift, Flutter**
 
 - 💬 Ask me about **React, Swift**
 
